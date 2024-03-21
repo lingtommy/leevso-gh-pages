@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/leevso-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/leevso-gh-pages/static/js/main.5d987863.js",
+    "main.css": "/leevso-gh-pages/static/css/main.87d90a47.css",
+    "main.js": "/leevso-gh-pages/static/js/main.0273fb3f.js",
     "static/js/453.dd84bbf3.chunk.js": "/leevso-gh-pages/static/js/453.dd84bbf3.chunk.js",
-    "static/media/logo.svg": "/leevso-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.png": "/leevso-gh-pages/static/media/logo.94c274ad3de706a24499.png",
+    "static/media/sidebar-background.jpeg": "/leevso-gh-pages/static/media/sidebar-background.1a927f57477e65d36392.jpeg",
+    "static/media/Instagram.png": "/leevso-gh-pages/static/media/Instagram.450f9975cd2f825e5240.png",
+    "static/media/Facebook.png": "/leevso-gh-pages/static/media/Facebook.d29c1f5f97a3e452c693.png",
     "index.html": "/leevso-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/leevso-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.5d987863.js.map": "/leevso-gh-pages/static/js/main.5d987863.js.map",
+    "main.87d90a47.css.map": "/leevso-gh-pages/static/css/main.87d90a47.css.map",
+    "main.0273fb3f.js.map": "/leevso-gh-pages/static/js/main.0273fb3f.js.map",
     "453.dd84bbf3.chunk.js.map": "/leevso-gh-pages/static/js/453.dd84bbf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5d987863.js"
+    "static/css/main.87d90a47.css",
+    "static/js/main.0273fb3f.js"
   ]
 }
